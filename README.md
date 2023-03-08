@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kumarrajz
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Daata Models
+- 👀 I’m interested in Angular,Python and Data Science
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Angular Development and Data Models on Data science
 - 📫 reach me kumarojja11@gmail.com
 
 <!---
