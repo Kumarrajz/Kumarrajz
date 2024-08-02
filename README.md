@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kumarrajz
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Angular, Python and Data Science
-- 💞️ I’m looking to collaborate on Angular Development and Data Models on Data science
+- 👋 Hi, I’m @KumarOjja
+- 👀 I’m interested in MEAN stack Development and Python as well
+- 🌱 I’m currently learning AWS, Python and Data Science
+- 💞️ I’m looking to collaborate on MEAN stack, Angular Development, Node js Developer and Data Models on Data science
 - 📫 reach me kumarojja11@gmail.com
 
 <!---
